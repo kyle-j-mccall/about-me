@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./plants.jpg);
+}
+   
+
+.me-pic {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(117, 199, 148);
+    padding: 20px;
+    border-radius: 6px;
+    font-weight: bold;
+
+}
+
+h2 {
+    color:antiquewhite;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+
+p {
+    color:rgb(166, 218, 188);
+    font-size: 20px;
+    font-family: monospace;
+    margin: 20px;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Orbitron', sans-serif;
+    color:rgb(219, 137, 30);
+    text-align: center;
+}
+
+.favorite-foods {
+    color:rgb(219, 137, 30);
+}
+
+
+
+
+
+.my-background {
+    text-align: center;
+}
+
+.my-hobbies {
+    text-align: center;
+}
+
+.gf-pets {
+    text-align: center;
+}
+
+.my-friends {
+    display: flex;
+    justify-content: space-around;
+}
+
+.luna-katie {
+    display: flex;
+    height: 300px;
+}
+
+.kitty {
+    display: flex;
+    height: 300px;
+}
